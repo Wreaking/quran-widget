@@ -32,7 +32,7 @@ When Windows shows an "Unknown publisher" message during install, it simply mean
 
 If you find a bug or want to suggest an improvement, please open an issue on GitHub:
 
-1. Go to the [GitHub Issues page](https://github.com/quran-widget/quran-widget/issues).
+1. Go to the [GitHub Issues page](https://github.com/Wreaking/quran-widget/issues).
 2. Click "New issue" and describe the problem.
 3. Include:
    * A screenshot if possible.
